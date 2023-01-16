@@ -21,10 +21,13 @@ PROYECTO: Interruptor de 3 vías (Luz de escaleras)
 
 OBJETIVOS GENERALES
 
-
+El objetivo principal de la práctica es el armar un circuito para la facilitación de permitir apagar y prender el bombillo desde dos diferentes puntos.
 
 OBJETIVOS ESPECÍFICOS
 
+- Analizar y entender los componentes implementados en el circuito. 
+- Comprender como se realizaron las conexiones para que el circuito funcione de manera correcta.
+- Entender el funcionamiento del mismo.
 
 2.- MARCO TEÓRICO (RESUMEN)
 
@@ -54,7 +57,7 @@ Los pasos a seguir son los siguientes:
 
 5.-CONCLUSIONES
 
-
+Podemos concluir que el proyecto es un exito, ya que nos facilita el poder apagar y prender un bombillo desde diferentes puntos sin necesidad de regresar a un solo punto, además de brindarnos una mejor comodidad y una eficiente función con un poco presupuesto. 
 
 
 6.-BIBLIOGRAFÍA
