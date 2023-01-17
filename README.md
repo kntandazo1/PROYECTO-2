@@ -47,6 +47,7 @@ Un enchufe
 
 Los pasos a seguir son los siguientes:
 
+1. Del enchufe conectar al 
 
 4.-VIDEO:
 
