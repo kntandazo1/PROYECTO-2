@@ -76,7 +76,7 @@ terminal de la boquilla, y finalmente el terminal libre de la boquilla se proced
 
 4.-VIDEO:
 
-
+https://youtu.be/f8B7IEl-yzo
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5.-CONCLUSIONES:
