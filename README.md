@@ -81,3 +81,7 @@ Podemos concluir que el proyecto es un exito, ya que nos facilita el poder apaga
 Electricista en Casa. (2020, 29 agosto). Circuito Escalera, 924, Vaiven, 3 Vias, pasó a paso. [Vídeo]. YouTube. https://www.youtube.com/watch?v=q3oUc9_qnyc
 
 ¿Cómo conectar e instalar un interruptor? (2021, 14 diciembre). Qmadis. https://qmadis.com/blog/conectar-interruptor/
+
+Interruptor de 3 Vías: ¿Qué es?, ¿Cómo instalarlo?, ¿Para qué sirve? (2022, 3 octubre). Grupo Casa Lima. https://grupocasalima.com/es-ec/blog/interruptor-de-3-vias-que-es-como-instalarlo-para-que-sirve/
+
+PortalÃ¡mparas, quÃ© son y cÃ3mo funcionan. (2013c, junio 24). Hogarmania. https://www.hogarmania.com/bricolaje/taller/materiales/portalamparas-como-funcionan-20549.html
