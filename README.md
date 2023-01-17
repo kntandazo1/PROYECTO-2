@@ -56,9 +56,13 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 Para la realización de este proyecto necesitaremos los siguientes materiales
 
 2 interruptores de 3 vías
+
 Cable gemelo N°18
+
 Bombilla o foco
+
 Roseta 
+
 Un enchufe
 
 Los pasos a seguir son los siguientes:
