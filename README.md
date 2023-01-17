@@ -63,6 +63,11 @@ Un enchufe
 
 Los pasos a seguir son los siguientes:
 
+En primer lugar conectamos la fase de la fuente de alimentación con el punto común del primer interruptor, luego con la ayuda de un cable viajero conectamos el 
+terminal a del primer interruptor con el terminal a del segundo interruptor, realizamos el mismo procedimiento utilizando un nuevo cable viajero para conectar el 
+terminal b del primer interruptor con el terminal b del segundo interruptor, a continuación el terminal común del segundo interruptor se procede a conectarse con el 
+terminal de la boquilla, y finalmente el terminal libre de la boquilla se procede a conectarse al neutro de la fuente de alimentación cerrando así nuestro circuito.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4.-VIDEO:
