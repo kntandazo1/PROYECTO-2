@@ -17,7 +17,7 @@ NRC : 10067
 
 PROYECTO: Interruptor de 3 vías (Luz de escaleras)
 
-1 .-OBJETIVOS
+1 .-OBJETIVOS:
 
 OBJETIVOS GENERALES
 
@@ -29,11 +29,11 @@ OBJETIVOS ESPECÍFICOS
 - Comprender como se realizaron las conexiones para que el circuito funcione de manera correcta.
 - Entender el funcionamiento del mismo.
 
-2.- MARCO TEÓRICO (RESUMEN)
+2.- MARCO TEÓRICO (RESUMEN):
 
 
 
-3.- PROCEDIMIENTO
+3.- PROCEDIMIENTO:
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -48,17 +48,14 @@ Un enchufe
 Los pasos a seguir son los siguientes:
 
 
+4.-VIDEO:
 
 
 
-4.-VIDEO
-
-
-
-5.-CONCLUSIONES
+5.-CONCLUSIONES:
 
 Podemos concluir que el proyecto es un exito, ya que nos facilita el poder apagar y prender un bombillo desde diferentes puntos sin necesidad de regresar a un solo punto, además de brindarnos una mejor comodidad y una eficiente función con un poco presupuesto. 
 
 
-6.-BIBLIOGRAFÍA
+6.-BIBLIOGRAFÍA:
 
